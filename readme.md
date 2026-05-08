@@ -76,3 +76,55 @@ The application uses a specific high-contrast palette for accessibility and aest
 ---
 
 *Created by Abdelwahed Abdellaoui*
+
+
+
+
+
+Analyze the GitHub repository at [REPOSITORY_URL] and provide:
+
+1. **Repository Overview**
+   - Owner, visibility, creation date, last update
+   - Repository ID and default branch
+   - License and topics/tags
+
+2. **Tech Stack & Language Composition**
+   - Primary languages with percentages
+   - Technology dependencies
+
+3. **Project Description**
+   - Project purpose and main goals
+   - Type of project (web app, library, API, etc.)
+   - Problem it solves
+
+4. **Key Features & Functionality**
+   - Main features and capabilities
+   - Core components or modules
+   - Notable integrations
+
+5. **Project Structure**
+   - Directory and file organization
+   - Important files and their purposes
+   - Size breakdown of key files
+
+6. **Setup & Getting Started**
+   - Installation instructions
+   - Required dependencies
+   - How to run the project
+   - Port/URL to access if applicable
+
+7. **Usage Examples**
+   - How to use the main features
+   - Example commands or code snippets
+   - Testing endpoints if applicable
+
+8. **Statistics**
+   - Repository size
+   - Open issues/PRs
+   - Forks, stars, watchers
+   - Contributor count if available
+
+9. **Additional Context**
+   - README content summary
+   - Any special configurations
+   - Notable files (.env, config, etc.)
